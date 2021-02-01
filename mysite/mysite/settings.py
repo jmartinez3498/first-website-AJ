@@ -25,7 +25,7 @@ SECRET_KEY = 'o(hlm@jdnkbco=!m&%sdb8t=_j@@waqk(3o2nq#_z_hpm%5l$s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chobilet.pythonanywhere.com']
 
 
 # Application definition
