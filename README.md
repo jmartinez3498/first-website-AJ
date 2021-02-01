@@ -6,3 +6,4 @@ Checking to see if it works
 
 ## Test commit
 simple commit
+simple commit 2
